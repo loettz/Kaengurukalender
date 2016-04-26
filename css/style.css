@@ -1,0 +1,18 @@
+@CHARSET "ISO-8859-1";
+body {
+	background-image: url("../images/kangaroo.jpg");
+} 
+
+.kreis {
+  width: 100px;
+  height: 100px;
+  border-radius: 50px;
+  position: absolute;
+}
+.number {
+	color: white;
+	font-weight: bold;
+	font-size: 40pt;
+	margin: 20px 25px;
+	
+}
